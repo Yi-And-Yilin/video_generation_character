@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Thoughts directory (local artifacts)
+thoughts/
+
+# Lock files (use bun.lock instead)
+package-lock.json
+yarn.lock
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+
+# Worktrees
+.worktrees/
